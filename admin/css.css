@@ -1,0 +1,29 @@
+<style type="text/css"> 
+*{margin:0; padding:0;}
+body{ font-size:15px; width:100%}
+#all{ margin:auto; border:#CCC 1px solid}
+p {line-height:20px; margin-left:5px}
+.p1 { background-image:url(/images/iii.gif); background-repeat:repeat-x;   line-height:25px; color:#FFF;width:100%}
+.p12 {background:url(/images/iii.gif) #33FF33;color:#ffffff; overflow-x:hidden;border-bottom:#DB7093 1px dashed;padding: 3px 3px 3px 3px;line-height: 25px;}
+.p13 {background:url(/images/iii.gif) #33FF33;color:#ffffff; overflow-x:hidden;border-bottom:#DB7093 1px dashed;padding: 3px 3px 3px 3px;line-height: 25px;}
+.p1 img{ float:left; margin:7px;}
+.reg {padding:3px;border:1px solid #a60e02;color:#fff;background:#d1291c;cursor:pointer; margin-top:5px;}
+input,select {
+ border:solid 1px #ccc;
+ padding:2px;
+ background:#fff;
+ border-radius: 0.3em;
+ color:#666;
+}
+.footer{background:#ffee99; text-align:left;padding:8px 5px 0 5px; color:#aa5d0b;line-height:1.4em;text-align:center;}
+.p2 {background-color:#DDDDDD; line-height:22px; color:Black; padding-left:5px}
+.p3 { margin-left:146px}
+.p31 { margin-left:100;pxcolor:#ffffff;}
+.p6 {background-color:#99FF99}
+.p7 { margin-top:8px;}
+a{ color:#09F; text-decoration:none; cursor:hand}
+li {margin-left:5px; margin-top:5px; line-height:18px;}
+.hongse {color:#F00}
+.tab span{color:#EEEEEE;background:#338815;text-decoration:none;border-top:1px solid #338815;padding:2px 4px;}
+a:hover{color:#33FF33;	text-decoration: none;}
+</style>
